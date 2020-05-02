@@ -1,0 +1,35 @@
+.header{
+position: sticky;
+top: 0;
+bottom: 0;
+
+ 
+}
+.img-container{
+    background-color: white;
+    text-align: center;
+    height: 150px;
+}
+.header img{
+    
+    width: 40%;
+    height: 100%;
+
+    
+}
+nav{
+    background-color: rgb(5, 4, 63);
+    line-height: 80px;
+    font-size: 30px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color:wheat ;
+     padding: 20px 10px;
+    
+}
+nav a:hover{
+    color: rgb(235, 33, 33);
+   
+}
