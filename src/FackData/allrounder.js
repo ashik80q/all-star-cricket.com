@@ -48,7 +48,7 @@ const allRounder =[
         'runs':905	,
         'wickets':133	,
          'img': 'https://i.ibb.co/51Cjm65/e0e020907091dea398970b92d11104b2.jpg',
-        'price':800000,
+        'price':840000,
         
     },
     {
